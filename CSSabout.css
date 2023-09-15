@@ -229,11 +229,17 @@
             color: #fff;
             text-align: left;
         }
+    
         
     
     
   
  } 
+
+ #codeforce{
+    max-width: 30px;
+   
+ }
 
 
  /* font-family: 'Times New Roman', Times, serif; */
